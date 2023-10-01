@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696154265 source:d:\m1\moh\courses\amit\embedded systems amit\my codes\number guessing game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
